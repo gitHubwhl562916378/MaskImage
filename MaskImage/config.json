@@ -1,0 +1,20 @@
+{
+	"path-in" : "images_in",
+	"path-out" : "images_out",
+	"color" : {"r": 0, "g" : 0, "b" : 100},
+	"rects" : 
+	[
+		{
+			"height" : 100,
+			"width" : 100,
+			"x" : 0,
+			"y" : 0
+		},
+		{
+			"height" : 200,
+			"width" : 200,
+			"x" : 50,
+			"y" : 50
+		}
+	]
+}

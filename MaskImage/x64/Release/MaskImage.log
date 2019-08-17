@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\用户目录\documents\visual studio 2017\maskimage\maskimage\main.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  32 of 1943 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MaskImage.vcxproj -> D:\用户目录\Documents\Visual Studio 2017\MaskImage\x64\Release\MaskImage.exe
